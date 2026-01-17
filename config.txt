@@ -1,0 +1,15 @@
+[general]
+api = https://api.gandi.net/v5/
+api_key = pat_xxxxxxxxxxxxxxxxxxxxxxxxx
+
+[subdomain1.fqdn.com]
+domain = fqdn.com
+name = subdomain1
+type = A
+ttl = 300
+
+[subdomain2.fqdn.com]
+domain = fqdn.com
+name = subdomain2
+type = A
+ttl = 300
